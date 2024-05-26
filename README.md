@@ -5,8 +5,6 @@
 喜欢技术创新，会发布一些非常酷的黑客工具！
 ## 📈 My 2024 Work Status
 下半年过于忙碌，更新较苛刻，尽量更新 Demo 版本。
-## 📆 My 2024 GitHub Plan
-1. No_X_Memory_ShellCodeLoader  
-无可执行权限加载 ShellCode。原理是实现一个自定义汇编的解释器，目前发布了简单样例，后期发布 x64 进阶版。
-3. Magic C2  
+## 📆 My 2024 Unfinished GitHub Plan
+1. Magic C2  
 实现多种创新技术的 C2 框架。
