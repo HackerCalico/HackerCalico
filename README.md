@@ -6,6 +6,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerCalico&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerCalico&layout=compact&exclude_repo=HackerCalico.github.io)
+## 💛 My Favourite
+NO GAME NO LIFE、無職転生  
+Minecraft、Hollow Knight、Spore
 ## 📆 My 2024 Unfinished GitHub Plan
 1. Magic C2  
 实现多种创新技术的 C2 框架。
+2. FlowerCat
+轻量级杀软。
