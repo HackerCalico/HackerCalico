@@ -7,8 +7,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerCalico&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerCalico&layout=compact&exclude_repo=HackerCalico.github.io)
 ## 💛 My Favorite
-NO GAME NO LIFE、無職転生  
-Minecraft、Hollow Knight、Spore
+Minecraft、Hollow Knight、Spore  
+NO GAME NO LIFE、無職転生〜異世界行ったら本気だす〜
 ## 📆 My 2024 Unfinished GitHub Plan
 1. 红队 C2 框架。  
 2. 轻量级杀软。
