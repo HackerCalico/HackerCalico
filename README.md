@@ -10,5 +10,5 @@
 NO GAME NO LIFE、無職転生  
 Minecraft、Hollow Knight、Spore
 ## 📆 My 2024 Unfinished GitHub Plan
-1. Magic C2: 实现多种创新技术的 C2 框架。  
-2. FlowerCat: 轻量级杀软。
+1. 红队 C2 框架。  
+2. 轻量级杀软。
