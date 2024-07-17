@@ -10,4 +10,4 @@
 Minecraft、Hollow Knight、Spore  
 NO GAME NO LIFE、呪術廻戦、無職転生
 ## 📆 My 2024 Unfinished GitHub Plan
-1. 轻量级杀软。
+1. 开始学习 Rust，开发一款轻量级杀软。
