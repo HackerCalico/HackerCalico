@@ -10,5 +10,4 @@
 Minecraft、Hollow Knight、Spore  
 NO GAME NO LIFE、呪術廻戦、無職転生
 ## 📆 My 2024 Unfinished GitHub Plan
-1. 红队 C2 框架。  
-2. 轻量级杀软。
+1. 轻量级杀软。
