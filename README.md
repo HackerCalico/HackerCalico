@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerCalico&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerCalico&layout=compact&exclude_repo=HackerCalico.github.io)
 ## 💛 My Favorite
-Minecraft、Hollow Knight、Spore  
-NO GAME NO LIFE、呪術廻戦、無職転生
+Minecraft、Hollow Knight、Spore。  
+NO GAME NO LIFE、呪術廻戦、無職転生。
 ## 📆 My 2024 Unfinished GitHub Plan
 1. 开始学习 Rust，开发一款轻量级杀软。
