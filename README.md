@@ -5,7 +5,7 @@
 喜欢技术创新，会发布一些非常酷的黑客工具！  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerCalico&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerCalico)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aubreyrs&layout=compact&exclude_repo=HackerCalico.github.io)
 ## 💛 My Favorite
 Minecraft、Hollow Knight、Spore  
 NO GAME NO LIFE、呪術廻戦、無職転生
