@@ -4,7 +4,7 @@
 白帽黑客，技术爱好者，遵纪守法。  
 喜欢技术创新，会发布一些非常酷的黑客工具！  
 
-[![My Skills](https://skillicons.dev/icons?i=c,rust,golang,python,php)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=c,rust,assembly,golang,python,php)](https://skillicons.dev)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerCalico&show_icons=true&theme=transparent)
 ## 💛 My Favorite
 Minecraft、Hollow Knight、Spore  
