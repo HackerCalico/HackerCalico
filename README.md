@@ -6,6 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerCalico&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerCalico&layout=compact&exclude_repo=HackerCalico.github.io)
+[![My Skills](https://skillicons.dev/icons?i=c,c++,c#,rust,go,python)](https://skillicons.dev)
 ## 💛 My Favorite
 Minecraft、Hollow Knight、Spore  
 NO GAME NO LIFE、呪術廻戦、無職転生
