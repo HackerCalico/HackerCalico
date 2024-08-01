@@ -11,4 +11,4 @@
 Minecraft、Hollow Knight、Spore  
 NO GAME NO LIFE、呪術廻戦、無職転生
 ## 📆 My 2024 Unfinished GitHub Plan
-1. 开始学习 Rust，研究一下 Minecraft 外挂。
+1. 研究一下 Minecraft 外挂。
