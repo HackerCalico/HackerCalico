@@ -10,5 +10,3 @@
 ## 💛 My Favorite
 Minecraft、Hollow Knight、Spore  
 NO GAME NO LIFE、呪術廻戦、無職転生
-## 📆 My 2024 Unfinished GitHub Plan
-研究一下 Minecraft 外挂，算是回归初心了。
