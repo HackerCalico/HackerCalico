@@ -1,11 +1,11 @@
 ## 😸 Welcome To My GitHub !
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=00FF00&background=000000&vCenter=true&random=false&width=435&lines=%E2%AC%9B%3E+No+System+Is+Safe.)](https://git.io/typing-svg)
 ## :octocat: About Me
-白帽黑客，技术爱好者，遵纪守法。  
-喜欢技术创新，会发布一些非常酷的黑客工具！  
+我是 Calico，一只专注于红队武器化的 Cyber Cat。
+喜欢技术创新，会发布一些非常酷的黑客工具！
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="linux" alt="linux" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="50" height="50"/>
