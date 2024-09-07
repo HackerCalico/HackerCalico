@@ -16,7 +16,7 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerCalico&show_icons=true&theme=transparent)
-<img src="https://raw.githubusercontent.com/HackerCalico/Blog-Resource/main/1.gif" alt="GIF" align="linuxQ" width=280/>
+<img src="https://raw.githubusercontent.com/HackerCalico/Blog-Resource/main/1.gif" alt="GIF" align="linuxQ" width="350"/>
 ## 💛 My Favorite
 Minecraft、Hollow Knight、Spore  
 NO GAME NO LIFE、呪術廻戦、無職転生
