@@ -5,7 +5,8 @@
 我喜欢尝试新事物、思考创新点，开发一些非常酷的黑客工具！
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="linux" alt="linux" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/bash-original.svg" title="bash" alt="bash" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="powershell" alt="powershell" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="50" height="50"/>
