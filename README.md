@@ -1,5 +1,5 @@
 ## 😸 My Cyber House.
-我是 Calico，一只专注于 Red Team 武器化的 Cyber Cat。  
+我是 Calico，一只专注于 Red Team 武器化的猫猫。  
 我喜欢尝试新事物、思考创新点，开发一些非常酷的黑客工具！
 
 <p>
