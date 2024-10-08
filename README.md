@@ -1,6 +1,6 @@
 ## 😸 My Cyber House.
-I'm Calico，一只专注于 Red Team 武器化的猫猫。  
-我喜欢尝试新事物、思考创新点，开发一些非常酷的黑客工具！
+Doing Red Team development for fun.  
+I enjoy being innovative and developing some really cool hacking tools!
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="50" height="50"/>
