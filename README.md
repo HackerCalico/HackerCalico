@@ -1,5 +1,5 @@
 ## 😸 My Cyber House.
-Work on Red Team development for fun.  
+Working on Red Team development for fun.  
 I enjoy being innovative and developing some really cool hacking tools!
 
 <p>
