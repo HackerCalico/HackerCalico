@@ -12,14 +12,11 @@ I enjoy being innovative and developing some really cool hacking tools!
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50" height="50"/>
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="50" height="50"/>-->
 </p>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HackerCalico&show_icons=true&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HackerCalico&show_icons=true&border_radius=25&theme=react&exclude_repo=Magic_C2,HackerCalico,Blog-Resource,HackerCalico.github.io"/>
-  <img src="https://raw.githubusercontent.com/HackerCalico/Blog-Resource/main/2.gif" alt="GIF" align="linuxQ" width="180"/>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerCalico&show_icons=true&theme=react)](https://github-readme-stats.vercel.app/api?username=HackerCalico&show_icons=true&theme=react)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HackerCalico&show_icons=true&border_radius=25&theme=react&exclude_repo=Magic_C2,HackerCalico,Blog-Resource,HackerCalico.github.io"/>
+<img src="https://raw.githubusercontent.com/HackerCalico/Blog-Resource/main/2.gif" alt="GIF" align="linuxQ" width="180"/>
 
 ## 💛 My Favorite
 Minecraft、Hollow Knight、Spore  
