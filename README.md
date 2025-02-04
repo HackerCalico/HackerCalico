@@ -16,7 +16,7 @@ I enjoy being innovative and developing some really cool hacking tools!
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerCalico&show_icons=true&theme=react)](https://github-readme-stats.vercel.app/api?username=HackerCalico&show_icons=true&theme=react)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HackerCalico&show_icons=true&border_radius=25&theme=react&exclude_repo=Magic_C2,HackerCalico,Blog-Resource,HackerCalico.github.io"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HackerCalico&show_icons=true&border_radius=25&theme=react&exclude_repo=HackerCalico,Blog-Resource,HackerCalico.github.io"/>
 
 ## 💛 My Favorite
 Minecraft、Hollow Knight、Spore  
